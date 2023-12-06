@@ -1,0 +1,17 @@
+.groupe{
+    width: 60%;
+    margin: 100px auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30PX;
+}
+.groupe img{
+    width: 240px;
+    height: 240px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    box-shadow: 10px 10px 5px #aaaaaa;
+}
